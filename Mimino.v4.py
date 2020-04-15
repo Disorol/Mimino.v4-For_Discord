@@ -50,7 +50,7 @@ class YLBotClient(discord.Client):
             return
 
 
-TOKEN = 'Njk5NzQwMTk4MjU0NDExODY2.XpYx3Q.fK8CWo2evQ1kbPWVvmLerv79pwc'
+TOKEN = 'TOKEN'
 client = YLBotClient()
 client.run(TOKEN)
 exit()
